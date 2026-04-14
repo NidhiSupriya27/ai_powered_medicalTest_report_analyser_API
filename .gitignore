@@ -1,0 +1,17 @@
+# Node dependencies
+/node_modules
+
+src/utils/solid-topic-471317-f9-348069fc7806.json
+/frontend
+#env
+/.env
+.vscode
+npm-debug.log*
+yarn-error.log*
+yarn-debug.log*
+.DS_Store
+*.local
+*.log
+*.tgz
+/pids
+/logs
